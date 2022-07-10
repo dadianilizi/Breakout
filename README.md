@@ -6,5 +6,4 @@ The play on a turn continues in this way until one of two conditions occurs:
 2. The last brick is eliminated. In this case, the player wins, and the game ends immediately.
 The game is simply operating by the same rules : bouncing off walls, clearing bricks, and otherwise obeying the laws of physics.
 
-There is another file 'Breakou2' which is more nice-looking as it is formatted by more colors and pictures.
 
